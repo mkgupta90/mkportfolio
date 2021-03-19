@@ -14,9 +14,9 @@ const Home = () => {
                 <Link to="/about">
                   <button>More Info</button>
                 </Link>
-                {/* <a href="https://drive.google.com/drive/u/0/my-drive">
+                <a href="">
                   <button className="resume">Resume</button>
-                </a> */}
+                </a>
             </div>
             <div className="person">
                 <img src={mypic} alt="my-pic" />
