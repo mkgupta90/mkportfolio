@@ -10,7 +10,7 @@ const Footer = () => {
     return (
         <footer> 
             <h4> Also, Contact Me With</h4>
-                <a href="https://www.facebook.com/profile.php?id=100012641112634">
+                <a href="https://www.facebook.com/munnakumar9050/">
                     <img src={facebook} alt="facebook-icon" />
                 </a> 
                 <a href="https://www.instagram.com/mk.gupta.9050/">
