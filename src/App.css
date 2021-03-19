@@ -1,4 +1,26 @@
-.App {
+.app {
+  display: flex;
+  margin: 0 auto;
+  padding: 0 15px;
+  max-width: 1200px;
+  min-height: 100vh;
+  border-radius: 10px;
+  flex-direction: column;
+  background-color:#ffff;
+}
+
+@media (min-width : 800px) {
+  .app {
+    padding: 0 100px;
+    margin-top: 5vh;
+    min-height: 90vh;
+  }
+}
+
+
+
+
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +57,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */

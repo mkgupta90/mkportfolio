@@ -1,0 +1,27 @@
+
+footer link{
+    width: 100%;
+    padding: 10px 0;
+}
+
+footer link img{
+    max-width: 60px;
+}
+
+footer img:not(:last-child) {
+    margin-right: 10px;
+}
+
+footer {
+    margin-top: 200px;
+}
+
+footer a {
+    padding: 5px;
+}
+
+footer h4{
+    padding: 10px 0;
+    padding-left: 10px;
+    color: rgb(153, 74, 209);
+}
