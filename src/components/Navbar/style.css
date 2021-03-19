@@ -17,6 +17,7 @@
 }
 
 .logo img {
+    padding: 10px;
     width: 100%;
     margin-left: -10px;
     border-radius: 20px;
@@ -53,6 +54,7 @@
 }
 
 .list-wrapper ul li {
+    padding-top: 25px ;
     list-style: none;
     margin-bottom: 15px;
 }
