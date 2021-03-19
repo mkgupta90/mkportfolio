@@ -14,9 +14,9 @@ const Home = () => {
                 <Link to="/about">
                   <button>More Info</button>
                 </Link>
-                <a href="">
+                <Link to="">
                   <button className="resume">Resume</button>
-                </a>
+                </Link>
             </div>
             <div className="person">
                 <img src={mypic} alt="my-pic" />
