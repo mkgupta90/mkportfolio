@@ -14,9 +14,9 @@ const Home = () => {
                 <Link to="/about">
                   <button>More Info</button>
                 </Link>
-                <Link to="">
-                  <button className="resume">Resume</button>
-                </Link>
+                <a href="https://github.com/mkgupta90/resume/blob/master/Resume_Munna_Reactjs.pdf">
+                  <button className="resume">Download Resume</button>
+                </a>
             </div>
             <div className="person">
                 <img src={mypic} alt="my-pic" />
