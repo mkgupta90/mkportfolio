@@ -16,7 +16,7 @@ const Contact = () => {
             <h4>Name</h4>
             <p>Munna Kumar</p>
 
-            <h4>Emial Address</h4>
+            <h4>Email Address</h4>
             <p>munnakumar727798@gmail.com</p>
 
             <h4>Phone</h4>

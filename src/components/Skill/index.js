@@ -27,6 +27,7 @@ const Skill = () => {
             <div>
                 <strong>Data Base</strong>
                 <li>MongoDB</li>
+                {/* <li>Sql(Structured Query Language)</li> */}
             </div>
             </div>
         </div>
