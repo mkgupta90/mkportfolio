@@ -13,12 +13,12 @@ const Footer = () => {
                 <a href="https://www.facebook.com/munnakumar9050/">
                     <img src={facebook} alt="facebook-icon" />
                 </a> 
-                <a href="https://www.instagram.com/mk.gupta.9050/">
+                {/* <a href="https://www.instagram.com/mk.gupta.9050/">
                     <img src={instagram} alt="instagram-icon" />
-                </a>        
-                <a href="https://github.com/mkgupta90">
+                </a>         */}
+                {/* <a href="https://github.com/mkgupta90">
                     <img src={github} alt="github-icon" />
-                </a> 
+                </a>  */}
                 <a href="https://www.linkedin.com/in/munna-kumar-3a9b90187/">
                     <img src={linkedin} alt="linkedin-icon" />
                 </a> 
